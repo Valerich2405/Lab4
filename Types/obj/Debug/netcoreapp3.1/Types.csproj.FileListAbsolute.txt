@@ -1,0 +1,13 @@
+C:\Users\Omen\Documents\Lab4\Types\bin\Debug\netcoreapp3.1\Types.exe
+C:\Users\Omen\Documents\Lab4\Types\bin\Debug\netcoreapp3.1\Types.deps.json
+C:\Users\Omen\Documents\Lab4\Types\bin\Debug\netcoreapp3.1\Types.runtimeconfig.json
+C:\Users\Omen\Documents\Lab4\Types\bin\Debug\netcoreapp3.1\Types.runtimeconfig.dev.json
+C:\Users\Omen\Documents\Lab4\Types\bin\Debug\netcoreapp3.1\Types.dll
+C:\Users\Omen\Documents\Lab4\Types\bin\Debug\netcoreapp3.1\Types.pdb
+C:\Users\Omen\Documents\Lab4\Types\obj\Debug\netcoreapp3.1\Types.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omen\Documents\Lab4\Types\obj\Debug\netcoreapp3.1\Types.AssemblyInfoInputs.cache
+C:\Users\Omen\Documents\Lab4\Types\obj\Debug\netcoreapp3.1\Types.AssemblyInfo.cs
+C:\Users\Omen\Documents\Lab4\Types\obj\Debug\netcoreapp3.1\Types.csproj.CoreCompileInputs.cache
+C:\Users\Omen\Documents\Lab4\Types\obj\Debug\netcoreapp3.1\Types.dll
+C:\Users\Omen\Documents\Lab4\Types\obj\Debug\netcoreapp3.1\Types.pdb
+C:\Users\Omen\Documents\Lab4\Types\obj\Debug\netcoreapp3.1\Types.genruntimeconfig.cache
