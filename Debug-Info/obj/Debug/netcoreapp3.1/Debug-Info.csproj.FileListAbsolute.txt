@@ -1,0 +1,14 @@
+C:\Users\Omen\Documents\Lab4\Debug-Info\bin\Debug\netcoreapp3.1\Debug-Info.exe
+C:\Users\Omen\Documents\Lab4\Debug-Info\bin\Debug\netcoreapp3.1\Debug-Info.deps.json
+C:\Users\Omen\Documents\Lab4\Debug-Info\bin\Debug\netcoreapp3.1\Debug-Info.runtimeconfig.json
+C:\Users\Omen\Documents\Lab4\Debug-Info\bin\Debug\netcoreapp3.1\Debug-Info.runtimeconfig.dev.json
+C:\Users\Omen\Documents\Lab4\Debug-Info\bin\Debug\netcoreapp3.1\Debug-Info.dll
+C:\Users\Omen\Documents\Lab4\Debug-Info\bin\Debug\netcoreapp3.1\Debug-Info.pdb
+C:\Users\Omen\Documents\Lab4\Debug-Info\obj\Debug\netcoreapp3.1\Debug-Info.csproj.AssemblyReference.cache
+C:\Users\Omen\Documents\Lab4\Debug-Info\obj\Debug\netcoreapp3.1\Debug-Info.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omen\Documents\Lab4\Debug-Info\obj\Debug\netcoreapp3.1\Debug-Info.AssemblyInfoInputs.cache
+C:\Users\Omen\Documents\Lab4\Debug-Info\obj\Debug\netcoreapp3.1\Debug-Info.AssemblyInfo.cs
+C:\Users\Omen\Documents\Lab4\Debug-Info\obj\Debug\netcoreapp3.1\Debug-Info.csproj.CoreCompileInputs.cache
+C:\Users\Omen\Documents\Lab4\Debug-Info\obj\Debug\netcoreapp3.1\Debug-Info.dll
+C:\Users\Omen\Documents\Lab4\Debug-Info\obj\Debug\netcoreapp3.1\Debug-Info.pdb
+C:\Users\Omen\Documents\Lab4\Debug-Info\obj\Debug\netcoreapp3.1\Debug-Info.genruntimeconfig.cache
