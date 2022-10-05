@@ -1,0 +1,14 @@
+C:\Users\Omen\Documents\Lab4\ApplicationLicense\bin\Debug\netcoreapp3.1\ApplicationLicense.exe
+C:\Users\Omen\Documents\Lab4\ApplicationLicense\bin\Debug\netcoreapp3.1\ApplicationLicense.deps.json
+C:\Users\Omen\Documents\Lab4\ApplicationLicense\bin\Debug\netcoreapp3.1\ApplicationLicense.runtimeconfig.json
+C:\Users\Omen\Documents\Lab4\ApplicationLicense\bin\Debug\netcoreapp3.1\ApplicationLicense.runtimeconfig.dev.json
+C:\Users\Omen\Documents\Lab4\ApplicationLicense\bin\Debug\netcoreapp3.1\ApplicationLicense.dll
+C:\Users\Omen\Documents\Lab4\ApplicationLicense\bin\Debug\netcoreapp3.1\ApplicationLicense.pdb
+C:\Users\Omen\Documents\Lab4\ApplicationLicense\obj\Debug\netcoreapp3.1\ApplicationLicense.csproj.AssemblyReference.cache
+C:\Users\Omen\Documents\Lab4\ApplicationLicense\obj\Debug\netcoreapp3.1\ApplicationLicense.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Omen\Documents\Lab4\ApplicationLicense\obj\Debug\netcoreapp3.1\ApplicationLicense.AssemblyInfoInputs.cache
+C:\Users\Omen\Documents\Lab4\ApplicationLicense\obj\Debug\netcoreapp3.1\ApplicationLicense.AssemblyInfo.cs
+C:\Users\Omen\Documents\Lab4\ApplicationLicense\obj\Debug\netcoreapp3.1\ApplicationLicense.csproj.CoreCompileInputs.cache
+C:\Users\Omen\Documents\Lab4\ApplicationLicense\obj\Debug\netcoreapp3.1\ApplicationLicense.dll
+C:\Users\Omen\Documents\Lab4\ApplicationLicense\obj\Debug\netcoreapp3.1\ApplicationLicense.pdb
+C:\Users\Omen\Documents\Lab4\ApplicationLicense\obj\Debug\netcoreapp3.1\ApplicationLicense.genruntimeconfig.cache
