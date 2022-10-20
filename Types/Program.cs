@@ -5,16 +5,24 @@ namespace Types
 {
     public class Types
     {
-        private int i;
-        private string s;
-
-        public Types(int I, string S)
+        public virtual void Method(int i, string s)
         {
-            this.i = I;
-            this.s = S;
-        }
+            Debug.WriteLine(i);
+            Debug.WriteLine(s);
 
-        public void Method(int i, string s)
+            Console.WriteLine($"Type: {i.GetType()}.");
+            Console.WriteLine($"Value = {i}.");
+            Console.WriteLine();
+
+            Console.WriteLine($"Type: {s.GetType()}.");
+            Console.WriteLine($"Value = {s}.");
+            Console.ResetColor();
+        }
+    }
+
+    public class Types2 : Types
+    {
+        public override void Method(int i, string s)
         {
             Debug.WriteLine(i);
             Debug.WriteLine(s);
@@ -29,6 +37,7 @@ namespace Types
             Console.WriteLine($"Value = {s}.");
             Console.ResetColor();
         }
+
     }
 
     public class Program
@@ -42,8 +51,19 @@ namespace Types
             string b = Console.ReadLine();
             Console.WriteLine();
 
-            Types types = new Types(a, b);
+            Types types = new Types();
             types.Method(a, b);
+            Console.WriteLine();
+
+            Console.Write("Enter a number: ");
+            int c = Convert.ToInt32(Console.ReadLine());
+
+            Console.Write("Enter the word: ");
+            string d = Console.ReadLine();
+            Console.WriteLine();
+
+            Types2 types2 = new Types2();
+            types2.Method(c, d);
         }
     }
 }
